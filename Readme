@@ -1,0 +1,14 @@
+# Smart Resume Screening System
+
+### Overview
+A beginner-level NLP-based system that reads resumes, extracts key information (email, phone, skills), and matches them to job descriptions.
+
+### Features
+- Read PDF/DOCX resumes
+- Extract email, phone, and skills using regex & NLP
+- Calculate skill match percentage with job descriptions
+
+### Technologies
+Python, Pandas, Regex, NLTK, spaCy
+
+### Folder Structure
