@@ -150,9 +150,10 @@ Here’s how it looks on your local Streamlit app 👇
 ## 👨‍💻 Author
 
 **Mohammed Yasir Arafath PT**
+
 🎓 BCA Graduate | Data Science & Machine Learning Enthusiast
 📧 [info@example.com](yasirpt77@gmail.com)
-🌐 [LinkedIn]([https://www.linkedin.com/in/mohammed-yasir-arafath-pt/])
+🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-yasir-arafath-pt/)
 
 ---
 
