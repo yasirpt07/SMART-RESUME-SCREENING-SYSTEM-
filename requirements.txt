@@ -1,6 +1,8 @@
 streamlit
+streamlit-lottie
+pdfplumber
+pandas
+requests
 sentence-transformers
 scikit-learn
-pdfplumber
-spacy
-pandas
+xlsxwriter
