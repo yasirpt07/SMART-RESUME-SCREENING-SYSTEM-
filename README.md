@@ -1,4 +1,4 @@
-# 🤖 Smart Resume Screening System (Intermediate Version)
+# 🤖 Smart Resume Screening System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-success)
