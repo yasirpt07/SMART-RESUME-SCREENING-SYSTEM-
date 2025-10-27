@@ -1,7 +1,1 @@
-We are looking for a Data Scientist to join our analytics team.
-Responsibilities:
-- Analyze large datasets and build predictive models
-- Develop machine learning algorithms using Python, Pandas, numpy and Scikit-learn
-- Work with SQL databases and extract insights
-- Build dashboards and reports using Excel and visualization tools
-- Excelent in Microsoft Power BI
+- We are hiring a Data Scientist experienced in Python, Machine Learning, Data Analysis, Pandas, SQL, and visualization tools. Knowledge of Django or Flask is a plus.

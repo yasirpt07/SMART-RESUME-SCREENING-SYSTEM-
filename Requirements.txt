@@ -1,6 +1,0 @@
-pandas
-nltk
-spacy
-python-docx
-pdfplumber
-streamlit
