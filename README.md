@@ -1,11 +1,3 @@
-Perfect ✅ — here’s a **ready-to-use README.md file** for your GitHub repository.
-You can **copy this entire text**, create a new file in your project folder named `README.md`, paste it, then push it to GitHub.
-
-It’s fully Markdown-formatted (GitHub compatible) — so when you view it on GitHub, it will look **clean, professional, and visually rich** 👇
-
----
-
-```markdown
 # 🤖 Smart Resume Screening System (Intermediate Version)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -157,10 +149,10 @@ Here’s how it looks on your local Streamlit app 👇
 
 ## 👨‍💻 Author
 
-**Mohammed Yasir Arafath**
+**Mohammed Yasir Arafath PT**
 🎓 BCA Graduate | Data Science & Machine Learning Enthusiast
-📧 [info@example.com](mailto:info@example.com)
-🌐 [LinkedIn](https://www.linkedin.com/) (Add your profile link here)
+📧 [info@example.com](yasirpt77@gmail.com)
+🌐 [LinkedIn]([https://www.linkedin.com/in/mohammed-yasir-arafath-pt/])
 
 ---
 
