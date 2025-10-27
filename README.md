@@ -174,18 +174,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 Your support motivates me to build more real-world AI projects 💙
 
-````
-
----
-
-### ✅ To push this to GitHub:
-1. Create a new file in your project folder named `README.md`
-2. Paste this full text inside
-3. Run these commands:
-   ```bash
-   git add README.md
-   git commit -m "Added professional README"
-   git push origin main
-````
-
-Would you like me to now create a **matching `requirements.txt`** file so your project runs immediately when others clone it?
