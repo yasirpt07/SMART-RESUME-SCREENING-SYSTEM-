@@ -18,7 +18,7 @@ You can **copy-paste** this directly into your repository’s `README.md` file.
 ---
 
 ## 📘 Overview
-Recruiters often receive hundreds of resumes for a single job posting.
+Recruiters often receive hundreds of resumes for a single job posting.  
 Traditional keyword-based filtering misses out on good candidates due to wording differences.
 
 This **Smart Resume Screening System** uses **Natural Language Processing (NLP)** and **BERT-based sentence embeddings** to measure how closely a resume aligns with a given job description — semantically, not just by keywords.
@@ -26,12 +26,12 @@ This **Smart Resume Screening System** uses **Natural Language Processing (NLP)*
 ---
 
 ## 🧠 Features
-✅ Resume text extraction from PDF
-✅ Job description semantic matching
-✅ BERT sentence embeddings for deep text understanding
-✅ Cosine similarity scoring
-✅ Streamlit Web App interface
-✅ Fit-level recommendation (Excellent / Moderate / Low)
+✅ Resume text extraction from PDF  
+✅ Job description semantic matching  
+✅ BERT sentence embeddings for deep text understanding  
+✅ Cosine similarity scoring  
+✅ Streamlit Web App interface  
+✅ Fit-level recommendation (Excellent / Moderate / Low)  
 
 ---
 
